@@ -4,6 +4,7 @@ const page = () => {
     return (
         <div>
             <h3>This is react js</h3>
+            <p>hello world</p>
         </div>
     );
 };
